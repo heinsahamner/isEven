@@ -1,2 +1,5 @@
 # isEven
-A C++ library for checking parity.
+A collection of libraries for checking parity.
+
+Currntly:
+1. C++
