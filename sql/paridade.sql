@@ -1,0 +1,6 @@
+CREATE OR REPLACE FUNCTION eh_par(numero INTEGER)
+RETURNS BOOLEAN AS $$
+BEGIN
+    RETURN numero % 2 = 0;
+END;
+$$ LANGUAGE plpgsql;

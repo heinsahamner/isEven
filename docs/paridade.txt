@@ -1,0 +1,11 @@
+Definição:
+
+Um número inteiro é par se o resto da divisão por 2 for igual a 0.
+
+Formalmente:
+
+n é par ⇔ n mod 2 = 0
+
+Forma alternativa (nível binário):
+
+n é par ⇔ o bit menos significativo de n é 0.
